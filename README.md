@@ -1,7 +1,7 @@
 # fnnmOS-ELM
-<p align="center">
+
   <img src="fnnmOS-ELM.jpg" alt="fnnmOS-ELM">
-</p>
+
 A Python implementation OS-ELM with CNNs or RNNs on some datasets.
 
 ## Requirements
